@@ -9,3 +9,8 @@ CMakeFiles/
 CMakeCache.txt
 .vscode/ipch/
 .vscode/.browse.VC.db
+main.exe
+main.ilk
+main.pdb
+vc140.pdb
+.vscode/
