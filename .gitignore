@@ -1,0 +1,11 @@
+hello
+hello.exe
+*.o
+*.obj
+*.out
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+.vscode/ipch/
+.vscode/.browse.VC.db
