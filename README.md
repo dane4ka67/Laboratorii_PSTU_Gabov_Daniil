@@ -30,9 +30,3 @@
 Ожидаемый вывод:
 
     Hello, C++!
-
-## Фото
-
-![Моё фото](LTqyFe-c8R7jwUenWUvKJv5BJ-dQSLcyDqkzFvRbWE1L4ysCm1SY61NS4sb57dInXH_JJh6_9doZzl4iqwUgpK22.jpg)
-
-
