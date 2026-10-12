@@ -1,16 +1,19 @@
-hello
-hello.exe
-*.o
+# Артефакты сборки
+*.exe
 *.obj
+*.ilk
+*.pdb
+*.o
 *.out
+hello
+
+# CMake
 build/
 cmake-build-*/
 CMakeFiles/
 CMakeCache.txt
+
+# VS Code
+.vscode/
 .vscode/ipch/
 .vscode/.browse.VC.db
-main.exe
-main.ilk
-main.pdb
-vc140.pdb
-.vscode/
