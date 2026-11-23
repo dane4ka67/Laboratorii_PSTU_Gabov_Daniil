@@ -36,7 +36,6 @@ void matrix(int mat[n][n]){
 int main() {
     SetConsoleOutputCP(CP_UTF8);
     SetConsoleCP(CP_UTF8);
-
     cout << "========================================" << endl;
     cout << " Лабораторная работа №5. Вариант 8 " << endl;
     cout << " Габов Даниил Алексеевич группа ИВТ-26-1б " << endl;
