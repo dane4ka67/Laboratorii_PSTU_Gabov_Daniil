@@ -18,7 +18,7 @@ void get_info(int year) {
         case 10: animal = "Лошадь"; break;
         case 11: animal = "Коза/Овца"; break;
     }
-    cout << "Год: " << year << " по старояпонскопу календарю - " << animal << endl;
+    cout << "Год" << year << " по старояпонскопу календарю" << animal << endl;
 }
 
 void get_info(string month) {
