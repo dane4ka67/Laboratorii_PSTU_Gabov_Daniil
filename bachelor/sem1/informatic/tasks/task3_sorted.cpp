@@ -7,7 +7,7 @@ int main()
     SetConsoleOutputCP(CP_UTF8);
     SetConsoleCP(CP_UTF8);
 
-    int arr[7] = {1, 2, 3, 4, 5, 6, 7};
+    int arr[7] = {1, 2, 3, -4, 5, 8, 6};
     int n = 7;
 
     cout << "Массив: ";

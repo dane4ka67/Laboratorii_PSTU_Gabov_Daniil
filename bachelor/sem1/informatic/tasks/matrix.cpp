@@ -3,8 +3,8 @@
 #include <ctime>
 #include <cstdlib>
 using namespace std;
-int main()
-{
+int main() {
+
     SetConsoleOutputCP(CP_UTF8);
     SetConsoleCP(CP_UTF8);
     
